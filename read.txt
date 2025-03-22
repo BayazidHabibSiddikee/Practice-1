@@ -1,2 +1,3 @@
 Hey this is my second git repo uhuhuhu
 this is new line for New repo --- instead of master on read.txt
+Dunno whats going on
